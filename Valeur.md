@@ -1,15 +1,12 @@
-# Valeur : création (de), distribution (de), capture (de)
+# Création (de), distribution (de), capture (de) valeur
 
 Les éléments réunis dans ce dépot  se destinent à 'remplir' le cartel dédié aux processus de création de valeur de l'[exposition Tiers-Lieux](http://frama.link/BiennaleDesign17-ForkTheWorld) (Fork The World) présentée sur la [10e Biennale de Design à Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/) (sur les mutations du travail). Il ont été pré-rassemblés le 05/04/2017 par Sylvia Fredriksson, Simon Sarrazin et Yann Heurtaux. 
 
+# Ressources et bonnes pratiques
 
-Appel a communs des tiers lieux
-http://hauts.tiers-lieux.org/
+- Appel a communs des tiers lieux : http://hauts.tiers-lieux.org/
 
-
-
-Affiche prix libre
-https://drive.google.com/open?id=0BzUW0ZSBFWPeX20xRDl2YUd5WjQ
+- Affiche prix libre : https://drive.google.com/open?id=0BzUW0ZSBFWPeX20xRDl2YUd5WjQ
 
 
 https://www.loomio.org/d/BUqti46G/assainir-la-cave-bonus
