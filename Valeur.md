@@ -1,11 +1,6 @@
 # Valeur : création (de), distribution (de), capture (de)
-« cartel blanc » (enfin jaune :p)
-Sylvia
-Simon
-Yann
 
-20170405, Saint-Etienne
-
+Les élémnts qui suivent se destinent à 'remplir' le cartel jaune » dédié aux processus de création de valeur de l'exposition Tiers-Lieux (Fork The World) présentée sur la 10e Biennale de Design à Saint-Etienne. Il ont été pré-rassemblés le 05/04/2017 par Sylvia, Simon et Yann. 
 
 
 Appel a communs des tiers lieux
