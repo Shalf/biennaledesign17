@@ -28,6 +28,7 @@ Lors qu'une personne ou une structure utilise un commun, on lui remet un documen
 - Qu'est ce qu'un commun ?
 - Quel est le commun qu'il utilise (sa ressource, sa gouvernance) ?
 - Quels sont les besoins de ce commun et comment y contribuer ?
+
 L'usager devient alors un contributeur du commun, pour le moment passif et c'est ce contrat qui l'engage vis à vis du commun.
 
 - [Exemple d'un Contrat de réciprocité](https://docs.google.com/document/d/1UTk14FuQ3NfTaIDD0a5nsF1xfMd9gA5r71WonvghbcA/edit)
