@@ -31,7 +31,7 @@ Chaque semaine les personnes impliquées décident de leur rémunération. [Ici]
 
 - [Rediger un contrat de réciprocité](https://www.loomio.org/d/vU2V5Wi4/r-diger-une-premi-re-version-d-un-contrat-de-r-ciprocit-)
 
-- [Proposer une réciprocité](http://hauts.tiers-lieux.org/prestations-et-formation) 
+- [Canevas pour proposer une réciprocité](http://hauts.tiers-lieux.org/prestations-et-formation) 
 
 ## Faire un Appel à Communs
 
