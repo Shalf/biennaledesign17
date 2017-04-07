@@ -41,4 +41,4 @@ Le contrat de réciprocité est un élément essentiel de la relation Chambre / 
 
 - [Rétribution dans les communs](https://upload.wikimedia.org/wikipedia/commons/7/7b/Questionnements_juridiques_-_fiscaux.svg)
 
-- [Engager une Licence Contributive Commmons](http://contributivecommons.org/la-licence-contributive-commons-synthese/)
+- [Licence Contributive Commmons](http://contributivecommons.org/la-licence-contributive-commons-synthese/)
