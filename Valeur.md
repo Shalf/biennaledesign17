@@ -25,9 +25,9 @@ Chaque semaine les personnes impliquées décident de leur rémunération. [Ici]
 
 > Le contrat de réciprocité est un élément essentiel de la relation Chambre / Assemblée. Il définit et consigne le lien entre un commun, ses contributeurs et un usager. (cf http://chambredescommuns.org/la-relation-chambre-assemblee/). Lorsqu'une personne ou une structure utilise un commun, on lui remet un document qui lui donne les informations essentielles sur : (1) Qu'est ce qu'un commun ? (2) Quel est le commun qu'il utilise (sa ressource, sa gouvernance) ? (3) Quels sont les besoins de ce commun et comment y contribuer ?  L'usager DEVIENT alors un contributeur du commun, pour le moment passif et c'est ce contrat qui l'engage vis à vis du commun.
 
-- [Exemple d'un Contrat de réciprocité](https://docs.google.com/document/d/1UTk14FuQ3NfTaIDD0a5nsF1xfMd9gA5r71WonvghbcA/edit)
+- [Exemple d'un contrat de réciprocité](https://docs.google.com/document/d/1UTk14FuQ3NfTaIDD0a5nsF1xfMd9gA5r71WonvghbcA/edit)
 
-- [Usage commercial de la richesse de la Co Routine](https://www.loomio.org/d/0cwk3NLh/r-ciprocit-quand-il-y-a-usage-commercial-de-la-richesse-de-la-coroutine-conseil-visite-du-lieu-r-utilisation-des-contenus-etc-)
+- [Usages de la richesse de la Co Routine](https://www.loomio.org/d/0cwk3NLh/r-ciprocit-quand-il-y-a-usage-commercial-de-la-richesse-de-la-coroutine-conseil-visite-du-lieu-r-utilisation-des-contenus-etc-)
 
 - [Rediger un contrat de réciprocité](https://www.loomio.org/d/vU2V5Wi4/r-diger-une-premi-re-version-d-un-contrat-de-r-ciprocit-)
 
