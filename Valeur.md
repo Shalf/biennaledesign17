@@ -2,21 +2,20 @@
 
 Les éléments réunis dans ce dépot  se destinent à 'remplir' le cartel dédié aux processus de création de valeur de l'[exposition Tiers-Lieux](http://frama.link/BiennaleDesign17-ForkTheWorld) (Fork The World) présentée sur la [10e Biennale de Design à Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/) (sur les mutations du travail). Il ont été pré-rassemblés le 05/04/2017 par Sylvia Fredriksson, Simon Sarrazin et Yann Heurtaux. 
 
+## Décider ensemble
+
+- [GitBook du logiciel Loomio]
+  - [Ex. de proposition sur un aménagmenet](https://www.loomio.org/d/BUqti46G/assainir-la-cave-bonus)
+  - [Ex. de proposition sur une facturation](https://www.loomio.org/d/OlwdLck3/permettre-aux-gens-qui-s-investissent-de-r-duire-leur-facture-et-ceux-qui-ne-peuvent-pas-de-payer-plus-)
+
 ## Appel à communs
 
 - [Appel a communs des tiers lieux](http://hauts.tiers-lieux.org)
 
-## Prix libre(s)
+## Faire des prix libres
 
 - [Affiche de prix libre](https://drive.google.com/open?id=0BzUW0ZSBFWPeX20xRDl2YUd5WjQ)
 
-## Décision collaborative
-
-- [Ex. de proposition sur un aménagmenet](https://www.loomio.org/d/BUqti46G/assainir-la-cave-bonus)
-
-- Ex. de proposition sur un
-
-https://www.loomio.org/d/OlwdLck3/permettre-aux-gens-qui-s-investissent-de-r-duire-leur-facture-et-ceux-qui-ne-peuvent-pas-de-payer-plus-
 
 ## Rémunération libre 
 
