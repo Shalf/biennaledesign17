@@ -23,7 +23,7 @@ Chaque semaine les personnes impliquées décident de leur rémunération. [Ici]
 
 ## Expliciter les réciprocités
 
-Le contrat de réciprocité est un élément essentiel de la relation Chambre / Assemblée. Il définit et consigne le lien entre un commun, ses contributeurs et un usager. (cf http://chambredescommuns.org/la-relation-chambre-assemblee/) Lors qu'une personne ou une structure utilise un commun, on lui remet un document qui lui donne les informations essentielles sur : (1) Qu'est ce qu'un commun ? (2) Quel est le commun qu'il utilise (sa ressource, sa gouvernance) ? (3) Quels sont les besoins de ce commun et comment y contribuer ? L'usager devient alors un contributeur du commun, pour le moment passif et c'est ce contrat qui l'engage vis à vis du commun.
+> Le contrat de réciprocité est un élément essentiel de la relation Chambre / Assemblée. Il définit et consigne le lien entre un commun, ses contributeurs et un usager. (cf http://chambredescommuns.org/la-relation-chambre-assemblee/). Lorsqu'une personne ou une structure utilise un commun, on lui remet un document qui lui donne les informations essentielles sur : (1) Qu'est ce qu'un commun ? (2) Quel est le commun qu'il utilise (sa ressource, sa gouvernance) ? (3) Quels sont les besoins de ce commun et comment y contribuer ?  L'usager DEVIENT alors un contributeur du commun, pour le moment passif et c'est ce contrat qui l'engage vis à vis du commun.
 
 - [Exemple d'un Contrat de réciprocité](https://docs.google.com/document/d/1UTk14FuQ3NfTaIDD0a5nsF1xfMd9gA5r71WonvghbcA/edit)
 
