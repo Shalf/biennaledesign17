@@ -1,11 +1,11 @@
 # Création (de), distribution (de), capture (de) valeur
 
-Les éléments réunis dans ce dépot  se destinent à 'remplir' le cartel dédié aux processus de création de valeur de l'[exposition Tiers-Lieux](http://frama.link/BiennaleDesign17-ForkTheWorld) (Fork The World) présentée sur la [10e Biennale de Design à Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/) (sur les mutations du travail). Il ont été pré-rassemblés le 05/04/2017 par Sylvia Fredriksson, Simon Sarazin et Yann Heurtaux. 
+Les éléments réunis dans ce dépot se destinent à 'remplir' le cartel dédié aux processus de création de valeur de l'[exposition Tiers-Lieux](http://frama.link/BiennaleDesign17-ForkTheWorld) (Fork The World) présentée sur la [10e Biennale de Design à Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/) (sur les mutations du travail). Ils ont été pré-rassemblés le 05/04/2017 par Sylvia Fredriksson, Simon Sarazin et Yann Heurtaux. 
 
 ## Décider en collectif
 
 - [GitBook du logiciel Loomio](https://loomio.coop)
-  - [Ex. de proposition sur un aménagmenet](https://www.loomio.org/d/BUqti46G/assainir-la-cave-bonus)
+  - [Ex. de proposition sur un aménagement](https://www.loomio.org/d/BUqti46G/assainir-la-cave-bonus)
   - [Ex. de proposition sur une "facturation"](https://www.loomio.org/d/OlwdLck3/permettre-aux-gens-qui-s-investissent-de-r-duire-leur-facture-et-ceux-qui-ne-peuvent-pas-de-payer-plus-)
   
 - [Ressources de co-gestion de la Co Routine](https://drive.google.com/drive/folders/0BzUW0ZSBFWPecy1DVWt0RXM2dXc)
